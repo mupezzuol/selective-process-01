@@ -2,7 +2,7 @@
 
 
 ###### 1. 
-**Segue a resposta no código do repositório.**
+**Segue a resposta no código do repositório. Foi utilizado Java, Scanner, Streams, Lambda, Listas etc.**
 
 ###### 2.
 ```java
